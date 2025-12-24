@@ -33,6 +33,17 @@ Análisis de la relación entre la congestión vial (Jams Delay) y el PIB per c�
 📁 Detalle del proyecto:  
 `projects/urban-congestion-analysis`
 
+### 🚀 Impacto de la innovación en procesos organizacionales en Colombia
+Proyecto colaborativo de analítica de datos utilizando encuestas oficiales (EDITS) para analizar la relación entre innovación organizacional y participación de mercado.
+
+**Hallazgos clave:**
+- La innovación en procesos organizacionales no impacta de forma homogénea a todos los sectores.
+- Algunos sectores muestran mayor asociación entre innovación y participación de mercado.
+- Existen diferencias relevantes entre periodos económicos analizados.
+
+📁 Detalle del proyecto:  
+`projects/innovacion-procesos-colombia`
+
 ---
 
 ## 📫 Contacto
