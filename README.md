@@ -1,24 +1,39 @@
 # 👋 Sebastian Restrepo
 
-Analista de Datos | Químico Farmacéutico  
-Experiencia en analítica en salud, farmacovigilancia y toma de decisiones basada en datos.
+**Analista de Datos | Químico Farmacéutico**  
+Analítica en Salud • Farmacovigilancia • Toma de decisiones basada en datos
 
-## 🧠 Sobre mí
-
-Soy químico farmacéutico en transición hacia el análisis de datos, con experiencia práctica en el uso de Python, SQL y visualización de datos para resolver problemas reales en contextos de salud y negocio.
-Me interesa aplicar el análisis de datos para mejorar la seguridad del paciente, optimizar procesos clínicos y apoyar la toma de decisiones estratégicas.
+---
 
 ## 🛠️ Habilidades técnicas
+- **Programación:** Python (Pandas, NumPy)
+- **Análisis de datos:** Limpieza de datos, Análisis Exploratorio (EDA), indicadores (KPIs)
+- **Visualización:** Matplotlib, Power BI
+- **Bases de datos:** SQL
 
-- Python (Pandas, NumPy, Matplotlib)
-- SQL
-- Limpieza de datos y análisis exploratorio (EDA)
-- Visualización de datos
-- Datos clínicos y del sector salud
+---
 
-## 📊 Proyectos
+## 🧠 Sobre mí
+Soy Analista de Datos con formación en el sector salud y experiencia en análisis de datos clínicos.  
+Me especializo en transformar datos en información accionable que apoye la toma de decisiones, la seguridad del paciente y la eficiencia operativa.
 
-🚧 Próximamente se agregarán proyectos.
+Estoy interesado en roles de analítica de datos, aplicados a distintos contextos como negocio, operaciones y salud.
+
+---
+
+## 📊 Proyectos destacados
+
+### 🌆 Congestión urbana y desarrollo económico en LATAM
+Análisis de la relación entre la congestión vial (Jams Delay) y el PIB per cápita en ciudades de Latinoamérica, con el fin de explorar si el desarrollo económico se asocia con una mejor movilidad urbana.
+
+**Hallazgos clave:**
+- Un mayor PIB per cápita no garantiza menores niveles de congestión.
+- Varias ciudades con alta capacidad económica presentan importantes ineficiencias en movilidad.
+
+📁 Detalle del proyecto:  
+`projects/urban-congestion-analysis`
+
+---
 
 ## 📫 Contacto
 
